@@ -21,7 +21,7 @@ For a more in depth explanation of all our proccess of work you can access "repo
 
 ## Project Description
 
-In this data science project, we were tasked with classifying files as malicious (1) or non-malicious (0) based on various features in the dataset. The project involved:
+In this project, we were tasked with classifying files as malicious (1) or non-malicious (0) based on various features in the dataset. The project involved:
 
 - Exploratory Data Analysis to understand the data's distribution and correlations.
 - Data preprocessing, including handling missing values, dealing with categorical features, and feature engineering.
