@@ -1,4 +1,4 @@
-# Data Science – Final Project
+# Detecting Malicious Files with Machine Learning
 
 ## Overview
 
